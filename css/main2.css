@@ -1,0 +1,56 @@
+body{
+width: 701px;
+margin:0 auto;
+border: 1px solid grey;
+padding: 20px 50px 20px 20px;
+}
+.c-profile{
+	text-align: center;
+}
+.profile-1,.profile-2,.profile-3,.profile-4,.profile-5,.profile-6{
+	border-radius: 100%;
+}
+h1{
+	text-align: center;
+}
+p{
+	text-align: justify;
+	width: 450px;
+	position: relative;
+	left: 130px;
+}
+.c-lenguajes{
+	position:relative;
+	left: 30px;
+}
+.html,.CSS,.javaScrip{
+	height: 30px;
+	background: grey;
+	line-height: 30px;
+	color:white;
+	padding:10px;
+}
+.html{
+	width: 450px;
+	margin-bottom: 20px;
+}
+.CSS{
+	width: 350px;
+	margin-bottom: 20px;
+}
+.javaScrip{
+	width: 250px;
+}
+.p1,.p2{
+	display: inline-block;
+}
+.p5,.p6,.p8{
+	height: 130px;
+	position: relative;
+	left: 20px;
+	padding: 10px;
+}
+
+
+
+
